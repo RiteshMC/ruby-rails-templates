@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON *.* TO 'ror_user'@'%';
+FLUSH PRIVILEGES ;
